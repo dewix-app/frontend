@@ -1,4 +1,4 @@
-name: Create and publish Docker image to ghcr.io/dewix-app/api
+name: Create and publish Docker image to ghcr.io/dewix-app/frontend
 
 # Configures this workflow to run every time a change is pushed to the branch called `release`.
 on:
